@@ -2,8 +2,6 @@
 
 The Todo App is a simple web application that allows users to create, manage, and organize their tasks.
 
-![Todo App Screenshot](screenshots/todo-app.png)
-
 ## Features
 
 - **Add New Tasks:** Easily add new tasks to your list.
