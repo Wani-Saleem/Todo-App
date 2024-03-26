@@ -12,7 +12,7 @@ The Todo App is a simple web application that allows users to create, manage, an
 
 ## Demo
 
-You can view a live demo of the Todo App [here](https://your-domain.com/todo-app).
+You can view a live demo of the Todo App [here](https://wani-saleem.github.io/Todo-App/).
 
 ## Technologies Used
 
